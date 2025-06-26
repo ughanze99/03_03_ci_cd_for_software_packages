@@ -19,7 +19,7 @@
       <name>GitHub Packages</name>
 
       <!-- REPLACE WITH YOUR GITHUB_USERNAME and GITHUB_REPONAME -->
-      <url>https://github.com/ughanze99/03_03_ci_cd_for_software_packages</url>
+      <url>https://maven.pkg.github.com/ughanze99/03_03_ci_cd_for_software_packages</url>
 
     </repository>
   </distributionManagement>
